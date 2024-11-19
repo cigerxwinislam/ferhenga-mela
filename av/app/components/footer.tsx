@@ -42,7 +42,7 @@ export default function Footer() {
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3" />
 
-Mimar Nurullah Demir 
+Barış Sürücü kursu 
 
               </h6>
               <p>
