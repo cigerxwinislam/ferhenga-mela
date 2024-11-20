@@ -46,7 +46,7 @@ Barış Sürücü kursu
 
               </h6>
               <p>
-......................              
+iyi sürücünün tek adresi             
 
 </p>
             </MDBCol>
