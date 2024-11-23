@@ -23,7 +23,7 @@ function page() {
 
 <Col>  
 
-<KitchenSinkExample nav="BIM" wene={mmwene}  nivis="Bir inşaatın bütün mimarisi..."/>
+<KitchenSinkExample nav="Kaliteli Eğitim" wene={mmwene}  nivis="Bir inşaatın bütün mimarisi..."/>
 
 <KitchenSinkExample nav="Mobilya Tasarımı" wene={mmwene} />
 </Col>
