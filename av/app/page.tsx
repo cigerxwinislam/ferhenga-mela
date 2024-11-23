@@ -17,7 +17,7 @@ function page() {
   
   <Alert style={{background:"white"}}>Hayatınıza değer verin..</Alert>  
   
-  <Alert style={{background:"white"}}>Demir mimari</Alert>  
+  <Alert style={{background:"white"}}>Ehliyet Kursu</Alert>  
     </Alert>  
 <Row>
 
