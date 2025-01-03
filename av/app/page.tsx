@@ -6,7 +6,15 @@ import React from 'react'
 import { Container, Row ,Col,Alert} from 'react-bootstrap'
 import KitchenSinkExample from './components/card'
 
+import mmm1 from '../public/mmm1.jpg'
+import mmm3 from '../public/mmm3.jpg'
 import mmwene from '../public/mmr.jpg'
+
+
+
+import mmm5 from '../public/mmm5.jpg'
+
+import mmm9 from '../public/mmm9.jpg'
 function page() {
   return (
     <div>
@@ -23,15 +31,16 @@ function page() {
 
 <Col>  
 
-<KitchenSinkExample nav="Kaliteli Eğitim" wene="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.surucukurslari.com%2Fhaber%2Fsurucu-kursu-nasil-acilir&psig=AOvVaw0JU_V9quXoNmyoScKh4pUH&ust=1735822841740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiTjZPK1IoDFQAAAAAdAAAAABAE"  nivis="Ehliyet Kursları"/>
 
-<KitchenSinkExample nav="Direksiyon Dersleri" wene="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzaferyolu.com.tr%2F&psig=AOvVaw0JU_V9quXoNmyoScKh4pUH&ust=1735822841740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiTjZPK1IoDFQAAAAAdAAAAABAh" />
+<KitchenSinkExample nav="Kaliteli Eğitim" wene={mmm1} />
+
+<KitchenSinkExample nav="Direksiyon Dersleri" wene={mmm3} />
+
 </Col>
 <Col>  
+<KitchenSinkExample nav="Tecrübeli Hocalarımız" wene={mmm5} />
 
-<KitchenSinkExample nav ="Tecrübeli Hocalarımız" wene="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffinans.mynet.com%2Fhaber%2Fdetay%2Fekonomi%2Fehliyet-almanin-bedeli-artiyor-2025-yilinda-surucu-kursu-ve-ehliyet-harc-fiyatlarina-buyuk-zam-geliyor-bu-tarihi-kacirmayin%2F491981%2F&psig=AOvVaw0JU_V9quXoNmyoScKh4pUH&ust=1735822841740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiTjZPK1IoDFQAAAAAdAAAAABAx"/>
-
-<KitchenSinkExample nav="Birebir Dersler" wene="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ehliyet.info%2Fzonguldak-en-iyi-surucu-kurslari-204.html&psig=AOvVaw0JU_V9quXoNmyoScKh4pUH&ust=1735822841740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiTjZPK1IoDFQAAAAAdAAAAABAR"/>
+<KitchenSinkExample nav="Birebir Dersler" wene={mmm9} />
 </Col>
 <Alert>
   
