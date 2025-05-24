@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725954342703",
+    "project_id": "kpss-30a5d",
+    "storage_bucket": "kpss-30a5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725954342703:android:46dd1e90e6beb89d13fbda",
+        "android_client_info": {
+          "package_name": "com.yekazad.kpss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnu-4x93To1sG020-6jVbiGDr90fPZEzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725954342703:android:fd9655203273290c13fbda",
+        "android_client_info": {
+          "package_name": "com.yekazad.yekazad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnu-4x93To1sG020-6jVbiGDr90fPZEzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
